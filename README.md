@@ -14,5 +14,5 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 - HTML5  
 - CSS3  
 
-*Live Demo:*  
+Thankyou for visiting my website
   
